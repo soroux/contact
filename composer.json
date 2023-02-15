@@ -2,8 +2,8 @@
     "name": "soroux/contact",
     "description": "a laravel package that helps contact users",
     "keywords": [
-        "soroux/contact",
-        "contact"
+        "Soroux/Contact",
+        "Contact"
     ],
     "homepage": "https://github.com/soroux/contact",
     "license": "MIT",
