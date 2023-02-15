@@ -1,10 +1,6 @@
 {
     "name": "soroux/contact",
     "description": "a laravel package that helps contact users",
-    "keywords": [
-        "Soroux/Contact",
-        "Contact"
-    ],
     "homepage": "https://github.com/soroux/contact",
     "license": "MIT",
     "type": "library",
